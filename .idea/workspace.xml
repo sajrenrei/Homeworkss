@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e32ef1a6-951f-4401-b68d-9ae883197611" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/03/5.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/maxnumberandindex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/генераторсписків.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/методи строк.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/строки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03/форматування.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03/5.2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,7 +235,7 @@
       <workItem from="1781096654421" duration="75000" />
       <workItem from="1781100710643" duration="309000" />
       <workItem from="1781348838946" duration="9807000" />
-      <workItem from="1781515108147" duration="5357000" />
+      <workItem from="1781515108147" duration="5735000" />
     </task>
     <servers />
   </component>

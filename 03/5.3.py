@@ -1,19 +1,15 @@
 import string
 
-user_input = input("Введіть рядок для хештегу (макс. 140 символів): ")
+user_input = input("Введіть рядок для хештегу: ")
 
-while len(user_input) > 140:
-    print(f"Помилка! Ваш рядок занадто довгий ({len(user_input)} симв.). Дозволено максимум 140.")
-    user_input = input("Будь ласка, введіть коротший рядок: ")
+cleaned_text = ""
+for char in user_input:
+    if char not in string.punctuation:
+        cleaned_text += char
+    else:
+        cleaned_text += " "
 
-processed_text = user_input.title()
-
-hashtag = "#"
-
-for char in processed_text:
-    if char != " " and char not in string.punctuation:
-        hashtag += char
-
+words = cleaned_text.split()
+hashtag = "#" + "".join(word.capitalize() for word in words)
 hashtag = hashtag[:140]
-
 print(hashtag)

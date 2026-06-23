@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e32ef1a6-951f-4401-b68d-9ae883197611" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04/0.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/1.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/2.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/3.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/4.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/6.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/6.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/0.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/1.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/2.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/3.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/4.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/5.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/7.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/7.4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,20 +60,29 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.0.6.executor": "Run",
+    "Python.0.7.executor": "Run",
     "Python.1.6.executor": "Run",
+    "Python.1.7.executor": "Run",
     "Python.2.6.executor": "Run",
+    "Python.2.7.executor": "Run",
     "Python.2.executor": "Run",
     "Python.3.6.executor": "Run",
+    "Python.3.7.executor": "Run",
     "Python.3.executor": "Run",
     "Python.4.1.executor": "Run",
     "Python.4.2.executor": "Run",
     "Python.4.3.executor": "Run",
     "Python.4.6.executor": "Run",
+    "Python.4.7.executor": "Run",
     "Python.5.1.executor": "Run",
     "Python.5.2.executor": "Run",
     "Python.5.3.executor": "Run",
     "Python.5.executor": "Run",
     "Python.6.1.executor": "Run",
+    "Python.6.2.executor": "Run",
+    "Python.6.3.executor": "Run",
+    "Python.7.1.executor": "Run",
+    "Python.7.2.executor": "Run",
     "Python.enumerate.executor": "Run",
     "Python.for.executor": "Run",
     "Python.maxnumberandindex.executor": "Run",
@@ -86,6 +98,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Sai/PycharmProjects/Homeworkss/05",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -94,8 +107,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.6.3">
-    <configuration name="3.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sai\PycharmProjects\Homeworkss\05" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.7.2">
+    <configuration name="2.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homeworkss" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,14 +122,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/3.6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05/2.7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homeworkss" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,14 +146,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/4.6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05/3.7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homeworkss" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,14 +170,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/6.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05/4.7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homeworkss" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,14 +194,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/6.2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05/7.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homeworkss" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,14 +218,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/6.3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05/7.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,18 +235,17 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6.3" />
-        <item itemvalue="Python.6.2" />
-        <item itemvalue="Python.6.1" />
-        <item itemvalue="Python.4.6" />
-        <item itemvalue="Python.3.6" />
+        <item itemvalue="Python.7.2" />
+        <item itemvalue="Python.7.1" />
+        <item itemvalue="Python.4.7" />
+        <item itemvalue="Python.3.7" />
+        <item itemvalue="Python.2.7" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.24374.152" />
         <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
       </set>
     </attachedChunks>
@@ -253,7 +265,8 @@
       <workItem from="1781515108147" duration="6392000" />
       <workItem from="1781715523322" duration="1433000" />
       <workItem from="1781721748412" duration="3553000" />
-      <workItem from="1781962690122" duration="4206000" />
+      <workItem from="1781962690122" duration="4667000" />
+      <workItem from="1782157285155" duration="44000" />
     </task>
     <servers />
   </component>
@@ -272,27 +285,29 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Homeworkss$2_6.coverage" NAME="2.6 Coverage Results" MODIFIED="1781724821685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
+    <SUITE FILE_PATH="coverage/Homeworkss$6_2.coverage" NAME="6.2 Coverage Results" MODIFIED="1781967457077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
     <SUITE FILE_PATH="coverage/Homeworkss$range.coverage" NAME="range Coverage Results" MODIFIED="1781356011979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
-    <SUITE FILE_PATH="coverage/Homeworkss$2.coverage" NAME="2 Coverage Results" MODIFIED="1780836424360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
-    <SUITE FILE_PATH="coverage/Homeworkss$5.coverage" NAME="5 Coverage Results" MODIFIED="1781349591476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
     <SUITE FILE_PATH="coverage/Homeworkss$5_1.coverage" NAME="5.1 Coverage Results" MODIFIED="1781521105612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
     <SUITE FILE_PATH="coverage/Homeworkss$4_3.coverage" NAME="4.3 Coverage Results" MODIFIED="1780838811156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
     <SUITE FILE_PATH="coverage/Homeworkss$.coverage" NAME="форматування Coverage Results" MODIFIED="1781519708472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
-    <SUITE FILE_PATH="coverage/Homeworkss$5_3.coverage" NAME="5.3 Coverage Results" MODIFIED="1781522365609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
     <SUITE FILE_PATH="coverage/Homeworkss$random.coverage" NAME="random Coverage Results" MODIFIED="1781359244923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
-    <SUITE FILE_PATH="coverage/Homeworkss$4_2.coverage" NAME="4.2 Coverage Results" MODIFIED="1780838335854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
     <SUITE FILE_PATH="coverage/Homeworkss$4_6.coverage" NAME="4.6 Coverage Results" MODIFIED="1781966132054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
     <SUITE FILE_PATH="coverage/Homeworkss$0_6.coverage" NAME="0.6 Coverage Results" MODIFIED="1781722011403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
-    <SUITE FILE_PATH="coverage/Homeworkss$6_1.coverage" NAME="6.1 Coverage Results" MODIFIED="1781967062995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
+    <SUITE FILE_PATH="coverage/Homeworkss$6_3.coverage" NAME="6.3 Coverage Results" MODIFIED="1781967608874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
     <SUITE FILE_PATH="coverage/Homeworkss$4_1.coverage" NAME="4.1 Coverage Results" MODIFIED="1780837731553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
-    <SUITE FILE_PATH="coverage/Homeworkss$for.coverage" NAME="for Coverage Results" MODIFIED="1781353480189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
     <SUITE FILE_PATH="coverage/Homeworkss$_.coverage" NAME="методи строк Coverage Results" MODIFIED="1781518993508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
     <SUITE FILE_PATH="coverage/Homeworkss$maxnumberandindex.coverage" NAME="maxnumberandindex Coverage Results" MODIFIED="1781357912011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
     <SUITE FILE_PATH="coverage/Homeworkss$3.coverage" NAME="3 Coverage Results" MODIFIED="1780836883804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
-    <SUITE FILE_PATH="coverage/Homeworkss$enumerate.coverage" NAME="enumerate Coverage Results" MODIFIED="1781358435952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
     <SUITE FILE_PATH="coverage/Homeworkss$3_6.coverage" NAME="3.6 Coverage Results" MODIFIED="1781965414284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
     <SUITE FILE_PATH="coverage/Homeworkss$5_2.coverage" NAME="5.2 Coverage Results" MODIFIED="1781521945774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Homeworkss$2_6.coverage" NAME="2.6 Coverage Results" MODIFIED="1781724821685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
+    <SUITE FILE_PATH="coverage/Homeworkss$2.coverage" NAME="2 Coverage Results" MODIFIED="1780836424360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
+    <SUITE FILE_PATH="coverage/Homeworkss$5.coverage" NAME="5 Coverage Results" MODIFIED="1781349591476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Homeworkss$5_3.coverage" NAME="5.3 Coverage Results" MODIFIED="1781522365609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Homeworkss$4_2.coverage" NAME="4.2 Coverage Results" MODIFIED="1780838335854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/Homeworkss$6_1.coverage" NAME="6.1 Coverage Results" MODIFIED="1781967062995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
+    <SUITE FILE_PATH="coverage/Homeworkss$for.coverage" NAME="for Coverage Results" MODIFIED="1781353480189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Homeworkss$enumerate.coverage" NAME="enumerate Coverage Results" MODIFIED="1781358435952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
     <SUITE FILE_PATH="coverage/Homeworkss$1_6.coverage" NAME="1.6 Coverage Results" MODIFIED="1781723458087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
   </component>
 </project>

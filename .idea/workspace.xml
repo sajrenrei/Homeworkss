@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e32ef1a6-951f-4401-b68d-9ae883197611" name="Changes" comment="5.3">
-      <change afterPath="$PROJECT_DIR$/06/0.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07/1.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07/2.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07/3.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07/4.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07/5.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07/9.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08/1.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08/2.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08/3.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08/4.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08/5.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08/6.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08/7.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08/8.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08/9.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08/decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/1.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08/10.0.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08/10.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08/10.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +61,8 @@
     "Python.1.6.executor": "Run",
     "Python.1.7.executor": "Run",
     "Python.1.9.executor": "Run",
+    "Python.10.0.1.executor": "Run",
+    "Python.10.1.executor": "Run",
     "Python.2.10.executor": "Run",
     "Python.2.6.executor": "Run",
     "Python.2.7.executor": "Run",
@@ -117,6 +104,7 @@
     "Python.8.8.executor": "Run",
     "Python.9.1.executor": "Run",
     "Python.9.10.executor": "Run",
+    "Python.9.2.executor": "Run",
     "Python.decorator.executor": "Run",
     "Python.enumerate.executor": "Run",
     "Python.for.executor": "Run",
@@ -149,32 +137,8 @@
       <recent name="C:\Users\Sai\PycharmProjects\Homeworkss\05" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9.1">
-    <configuration name="1.11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Homeworkss" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09/1.11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="8.10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10.2">
+    <configuration name="10.0.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homeworkss" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,7 +153,55 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/8.10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/10.0.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Homeworkss" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/10.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Homeworkss" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/10.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9.10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homeworkss" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,37 +243,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/9.10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="decorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Homeworkss" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/decorator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07/9.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10.2" />
+        <item itemvalue="Python.10.1" />
+        <item itemvalue="Python.10.0.1" />
+        <item itemvalue="Python.9.2" />
         <item itemvalue="Python.9.1" />
-        <item itemvalue="Python.1.11" />
-        <item itemvalue="Python.decorator" />
-        <item itemvalue="Python.9.10" />
-        <item itemvalue="Python.8.10" />
       </list>
     </recent_temporary>
   </component>

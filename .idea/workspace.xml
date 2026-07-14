@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e32ef1a6-951f-4401-b68d-9ae883197611" name="Changes" comment="5.3">
-      <change afterPath="$PROJECT_DIR$/12/12.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/12.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12/12.3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/01/3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +65,7 @@
     "Python.10.3.executor": "Run",
     "Python.12.1.executor": "Run",
     "Python.12.2.executor": "Run",
+    "Python.12.3.executor": "Run",
     "Python.12.executor": "Run",
     "Python.2.10.executor": "Run",
     "Python.2.6.executor": "Run",
@@ -145,7 +142,7 @@
       <recent name="C:\Users\Sai\PycharmProjects\Homeworkss\05" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.12.2">
+  <component name="RunManager" selected="Python.12.3">
     <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homeworkss" />
       <option name="ENV_FILES" value="" />
@@ -218,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Homeworkss" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,13 +224,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02/4.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12/12.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,11 +265,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12.3" />
         <item itemvalue="Python.12.2" />
         <item itemvalue="Python.12.1" />
         <item itemvalue="Python.12" />
         <item itemvalue="Python.5.2" />
-        <item itemvalue="Python.4.1" />
       </list>
     </recent_temporary>
   </component>
